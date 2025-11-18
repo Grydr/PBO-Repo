@@ -1,3 +1,6 @@
 [submodule "VendingCoffeeMachine"]
 	path = VendingCoffeeMachine
 	url = git@github.com:Grydr/CoffeeVendingMachine.git
+[submodule "frs-clone"]
+	path = frs-clone
+	url = git@github.com:Grydr/frs-clone.git
