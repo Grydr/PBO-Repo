@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=NumberDisplay
+comment0.text=\n\ Write\ a\ description\ of\ class\ NumberDisplay\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=rollOver
+comment1.target=NumberDisplay(int)
+comment2.params=
+comment2.target=int\ getValue()
+comment3.params=newVal
+comment3.target=void\ setValue(int)
+comment4.params=
+comment4.target=java.lang.String\ getDisplayValue()
+comment5.params=
+comment5.target=void\ increment()
+numComments=6

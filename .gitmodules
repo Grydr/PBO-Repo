@@ -1,0 +1,3 @@
+[submodule "VendingCoffeeMachine"]
+	path = VendingCoffeeMachine
+	url = git@github.com:Grydr/CoffeeVendingMachine.git
